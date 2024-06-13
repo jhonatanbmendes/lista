@@ -1,0 +1,70 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.conteudo{
+    width: 100%;
+    max-width: 800px;
+    height: 100vh;
+    margin: auto;
+    background-color: #ccc;
+}
+h2{
+    text-align: center;
+    padding: 25px 0;
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+form input{
+    width: 70%;
+    font-size: 18px;
+    padding: 8px 0;
+    padding-left: 20px;
+    padding-right: 15px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+
+.item{
+    border: 1px solid #000;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #eee;
+}
+.escola{
+    font-size: 22px;
+    text-align: center;
+    padding-bottom: 10px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.nomes{
+    padding: 5px;
+    font-size: 20px;
+}
+.nomes img{
+    width: 20px;
+}
+.nomes a{
+    margin-left: 15px;
+}
+#tel01, #tel02{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
