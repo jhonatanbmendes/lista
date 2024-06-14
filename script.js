@@ -18,5 +18,7 @@ function buscar() {
 
 }
 
-
+function alerta(){
+    alert('Por favor, informe seu nome, telefone e escola.');
+}
 

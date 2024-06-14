@@ -449,3 +449,16 @@ for (let i in lista) {
 
 
 }
+
+// para saber o tamanho da tela.
+function sizeOfThings(){
+    let janelaLagura = window.innerWidth;
+    let janelaAltura = window.innerHeight;
+
+    let telaLargura = screen.width;
+    let telaAltura = screen.height;
+
+    document.getElementById('tamanho').innerHTML = 'janela -> '+ janelaLagura + " x " + janelaAltura + ' tela -> ' + telaLargura + ' x ' + telaAltura;
+}
+
+sizeOfThings();
