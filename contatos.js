@@ -426,6 +426,15 @@ lista = [{
     tel02: ""
 }];
 
+let link = "";
+if(window.innerWidth <= 450){
+    link = "https://wa.me/";
+    // link = "https://api.whatsapp.com/send/?phone=";
+}else{
+    link = "https://web.whatsapp.com/send/?phone=";
+}
+
+console.log(link);
 
 for (let i in lista) {
 
@@ -434,13 +443,13 @@ for (let i in lista) {
         let aux = `<section class="item"><div class="escola">` + lista[i].escola + `</div>
         <div class="nomes" id="nome01">`+ lista[i].nome01 + `</div>
         <div class="nomes" id="tel01">
-            <a href="https://wa.me/5595`+ lista[i].tel01 + `?text=Olá ` + lista[i].nome01 + `"><div>95 ` + lista[i].tel01 + `</div><img src="whats.png" alt="whatsapp"></a>
+            <a href="` +link+ `5595`+ lista[i].tel01 + `?text=Olá ` + lista[i].nome01 + `&type=phone_number&app_absent=0" target="_blank"><div>95 ` + lista[i].tel01 + `</div><img src="whats.png" alt="whatsapp"></a>
         </div>`;
     
         if (lista[i].nome02 !== "") {
             aux += `<div class="nomes" id="nome01">` + lista[i].nome02 + `</div>
             <div class="nomes" id="tel02">
-                <a href="https://wa.me/5595`+ lista[i].tel02 + `?text=Olá ` + lista[i].nome02 + `"><div>95 ` + lista[i].tel02 + `</div><img src="whats.png" alt="whatsapp"></a>
+                <a href="` +link+ `5595`+ lista[i].tel02 + `?text=Olá ` + lista[i].nome02 + `&type=phone_number&app_absent=0" target="_blank"><div>95 ` + lista[i].tel02 + `</div><img src="whats.png" alt="whatsapp"></a>
             </div>`;
         };
     
@@ -451,14 +460,13 @@ for (let i in lista) {
 }
 
 // para saber o tamanho da tela.
-function sizeOfThings(){
-    let janelaLagura = window.innerWidth;
-    let janelaAltura = window.innerHeight;
+// function sizeOfThings(){
+//     let janelaLagura = window.innerWidth;
+//     let janelaAltura = window.innerHeight;
 
-    let telaLargura = screen.width;
-    let telaAltura = screen.height;
+//     let telaLargura = screen.width;
+//     let telaAltura = screen.height;
 
-    document.getElementById('tamanho').innerHTML = 'janela -> '+ janelaLagura + " x " + janelaAltura + ' tela -> ' + telaLargura + ' x ' + telaAltura;
-}
-
-sizeOfThings();
+//     document.getElementById('tamanho').innerHTML = 'janela -> '+ janelaLagura + " x " + janelaAltura + ' tela -> ' + telaLargura + ' x ' + telaAltura;
+// }
+// sizeOfThings();
