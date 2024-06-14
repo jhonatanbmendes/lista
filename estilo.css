@@ -8,9 +8,10 @@
 .conteudo{
     width: 100%;
     max-width: 800px;
-    height: 100vh;
+    min-height: 100vh;
     margin: auto;
     background-color: #ccc;
+    padding-bottom: 5px;
 }
 h2{
     text-align: center;
@@ -58,13 +59,35 @@ form input{
     width: 20px;
 }
 .nomes a{
-    margin-left: 15px;
-}
-#tel01, #tel02{
+    text-decoration: none;
+    color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+.nomes a div{
+    margin-right: 10px;
+}
 
+footer{
+    text-align: center;
+    border-top: 2px solid #555;
+    padding-top: 5px;
+}
 
+@media screen and (max-width: 400px) {
 
+    form input{
+        width: 85%;
+    }
+    .escola{
+        font-size: 20px;
+    }
+    .nomes{
+        font-size: 18px;
+    }
+    .item{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
