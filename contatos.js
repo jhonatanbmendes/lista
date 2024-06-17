@@ -224,8 +224,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Newton Tavares",
-    nome01: "",
-    tel01: "",
+    nome01: "Sulamir Alves",
+    tel01: "991639196",
     nome02: "",
     tel02: ""
 },
