@@ -342,6 +342,13 @@ lista = [{
     tel02: "991448116"
 },
 {
+    escola: "Escola Municipal Professora Nara Ney de Araújo Santana",
+    nome01: "Janaina da Silva",
+    tel01: "991390143",
+    nome02: "",
+    tel02: ""
+},
+{
     escola: "Escola Municipal Raimundo Eloy Gomes",
     nome01: "Aurelice",
     tel01: "991744325",
@@ -587,16 +594,9 @@ lista = [{
     tel02: ""
 },
 {
-    escola: "Escola Municipal Indígena Vovó Tereza da Silva",
+    escola: "Escola Municipal Indígena Vovó Terezinha da Silva",
     nome01: "Gecicleia Pereira",
     tel01: "991135035",
-    nome02: "",
-    tel02: ""
-},
-{
-    escola: "Escola Municipal Indígena Vovó Terezinha da Silva",
-    nome01: "",
-    tel01: "",
     nome02: "",
     tel02: ""
 },
