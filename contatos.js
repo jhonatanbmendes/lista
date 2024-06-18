@@ -14,10 +14,10 @@ lista = [{
 },
 {
     escola: "Escola Municipal Branca de Neve",
-    nome01: "",
-    tel01: "",
-    nome02: "",
-    tel02: ""
+    nome01: "Julio Paes",
+    tel01: "999706488",
+    nome02: "Juliete Souza",
+    tel02: "991335072"
 },
 {
     escola: "Escola Municipal Cantinho do Céu",
@@ -119,8 +119,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Isete Evangelista Albuquerque",
-    nome01: "",
-    tel01: "",
+    nome01: "Miriam de Oliveira",
+    tel01: "991237437",
     nome02: "",
     tel02: ""
 },
@@ -226,8 +226,8 @@ lista = [{
     escola: "Escola Municipal Newton Tavares",
     nome01: "Sulamir Alves",
     tel01: "991639196",
-    nome02: "",
-    tel02: ""
+    nome02: "Kayra Teiciane",
+    tel02: "991467038"
 },
 {
     escola: "Escola Municipal Canaã Nova",
@@ -406,8 +406,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Vovó Eurídes",
-    nome01: "",
-    tel01: "",
+    nome01: "Ray Alves",
+    tel01: "991231549",
     nome02: "",
     tel02: ""
 },
@@ -476,8 +476,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Pedro Ferreira Monteiro",
-    nome01: "",
-    tel01: "",
+    nome01: "Raquel Almeida",
+    tel01: "991237249",
     nome02: "",
     tel02: ""
 },
@@ -490,15 +490,15 @@ lista = [{
 },
 {
     escola: "Escola Municipal Professora Áurea de Holanda Lima",
-    nome01: "",
-    tel01: "",
+    nome01: "Leandro dos Anjos",
+    tel01: "991669359",
     nome02: "",
     tel02: ""
 },
 {
     escola: "Escola Municipal Valderleide Baraúna Brandão",
-    nome01: "",
-    tel01: "",
+    nome01: "Cicera Luiza",
+    tel01: "991438346",
     nome02: "",
     tel02: ""
 },
@@ -511,8 +511,225 @@ lista = [{
 },
 {
     escola: "Escola Municipal Waldinete de Carvalho Chaves",
+    nome01: "Leila Lima",
+    tel01: "991168369",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Clemente do Santos",
+    nome01: "Andreia Ruth",
+    tel01: "991770263",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Dukuzyy Sebastião",
     nome01: "",
     tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Francisca Gomes da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Ignês Benedicto",
+    nome01: "Ryan Rasec",
+    tel01: "991529672",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena KoKo Ermelinda Raposo da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Martins Pereira da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Tuxaua Albino de Moraes",
+    nome01: "Ezequiel Costa",
+    tel01: "991669081",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Vicente André da Silva",
+    nome01: "Natália de Oliveira",
+    tel01: "991461890",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Vovó Antônia Celestina da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Vovô Jandico da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Vovó Tereza da Silva",
+    nome01: "Gecicleia Pereira",
+    tel01: "991135035",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Indígena Vovó Terezinha da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Centro Municipal Integrado de Educação Especial - CMIEE",
+    nome01: "Rayane",
+    tel01: "991613981",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Balduíno Wottrich",
+    nome01: "Janaina",
+    tel01: "991273982",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal José Davi Feitosa Neto",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Leila Maria da Silveira",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Aurelino Soares da Silva",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Escola Municipal Maria de Lourdes Dias de Abreu",
+    nome01: "Mateus Aleixo",
+    tel01: "991387531",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Alvorada",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Bela Vista",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Centenário",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Cidadão",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Cidade Satélite I",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Cidade Satélite II",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Equatorial",
+    nome01: "Antonia Sandra",
+    tel01: "991610780",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Equatorial II",
+    nome01: "Helen Magna",
+    tel01: "991538886",
+    nome02: "Helen",
+    tel02: "984120259"
+},
+{
+    escola: "Núcleo de Creche Jardim Caranã",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Nova Cidade",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Pintolândia",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Raiar do Sol",
+    nome01: "",
+    tel01: "",
+    nome02: "",
+    tel02: ""
+},
+{
+    escola: "Núcleo de Creche Senador Hélio Campos",
+    nome01: "Adreana Costa",
+    tel01: "981129242",
     nome02: "",
     tel02: ""
 }];
@@ -520,7 +737,6 @@ lista = [{
 let link = "";
 if(window.innerWidth <= 450){
     link = "https://wa.me/";
-    // link = "https://api.whatsapp.com/send/?phone=";
 }else{
     link = "https://web.whatsapp.com/send/?phone=";
 }
@@ -550,14 +766,3 @@ for (let i in lista) {
 
 }
 
-// para saber o tamanho da tela.
-// function sizeOfThings(){
-//     let janelaLagura = window.innerWidth;
-//     let janelaAltura = window.innerHeight;
-
-//     let telaLargura = screen.width;
-//     let telaAltura = screen.height;
-
-//     document.getElementById('tamanho').innerHTML = 'janela -> '+ janelaLagura + " x " + janelaAltura + ' tela -> ' + telaLargura + ' x ' + telaAltura;
-// }
-// sizeOfThings();
