@@ -1,7 +1,7 @@
 lista = [{
     escola: "Escola Municipal Aquilino da Mota Duarte",
-    nome01: "",
-    tel01: "",
+    nome01: "Elyzandro Costa",
+    tel01: "991707960",
     nome02: "",
     tel02: ""
 },
@@ -28,8 +28,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Cantinho Feliz",
-    nome01: "",
-    tel01: "",
+    nome01: "Marilene Guivara",
+    tel01: "991333244",
     nome02: "",
     tel02: ""
 },
@@ -70,8 +70,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Doutor Sílvio Leite",
-    nome01: "",
-    tel01: "",
+    nome01: "Rita",
+    tel01: "991534622",
     nome02: "",
     tel02: ""
 },
@@ -84,10 +84,10 @@ lista = [{
 },
 {
     escola: "Escola Municipal Francisco Cássio de Moraes",
-    nome01: "",
-    tel01: "",
-    nome02: "",
-    tel02: ""
+    nome01: "Kelly Karine",
+    tel01: "991148342",
+    nome02: "Institucional",
+    tel02: "984113496"
 },
 {
     escola: "Escola Municipal Francisco de Souza Bríglia",
@@ -230,9 +230,9 @@ lista = [{
     tel02: "991467038"
 },
 {
-    escola: "Escola Municipal Canaã Nova",
-    nome01: "",
-    tel01: "",
+    escola: "Escola Municipal Nova Canaã",
+    nome01: "Gilberlandia Chagas",
+    tel01: "991185483",
     nome02: "",
     tel02: ""
 },
@@ -343,8 +343,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Raimundo Eloy Gomes",
-    nome01: "",
-    tel01: "",
+    nome01: "Aurelice",
+    tel01: "991744325",
     nome02: "",
     tel02: ""
 },
@@ -364,10 +364,10 @@ lista = [{
 },
 {
     escola: "Escola Municipal Senador Darcy Ribeiro",
-    nome01: "",
-    tel01: "",
-    nome02: "",
-    tel02: ""
+    nome01: "Natália Pereira",
+    tel01: "984152241",
+    nome02: "Circleide Machado",
+    tel02: "991272707"
 },
 {
     escola: "Escola Municipal Sonho Infantil",
@@ -441,8 +441,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Eunice Queiroz de Faria",
-    nome01: "",
-    tel01: "",
+    nome01: "Sabrina Gato",
+    tel01: "991146763",
     nome02: "",
     tel02: ""
 },
@@ -581,8 +581,8 @@ lista = [{
 },
 {
     escola: "Escola Municipal Indígena Vovô Jandico da Silva",
-    nome01: "",
-    tel01: "",
+    nome01: "Áurea Peixoto",
+    tel01: "991724879",
     nome02: "",
     tel02: ""
 },
